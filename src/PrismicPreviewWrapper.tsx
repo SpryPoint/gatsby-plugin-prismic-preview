@@ -1,4 +1,3 @@
-import "@babel/polyfill";
 import React from 'react';
 import traverse from 'traverse';
 import { get, isArray } from 'lodash';

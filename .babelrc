@@ -1,8 +1,6 @@
 {
   "presets": [
-    ["@babel/preset-env", {
-      "targets": "cover 99.5% in US, IE 10-11"
-    }],
+    "@babel/preset-env",
     "@babel/react",
     "@babel/preset-typescript"
   ],

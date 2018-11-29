@@ -1,5 +1,4 @@
 import path from 'path';
-import "@babel/polyfill";
 
 interface CreatePageInput {
   path: string;

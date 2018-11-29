@@ -1,4 +1,3 @@
-import "@babel/polyfill";
 import React from 'react';
 import { get } from 'lodash';
 import Prismic from 'prismic-javascript';

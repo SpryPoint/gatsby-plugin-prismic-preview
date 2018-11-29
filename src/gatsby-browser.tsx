@@ -1,6 +1,5 @@
 import React from 'react';
 import PrismicPreviewWrapper from './PrismicPreviewWrapper';
-import "@babel/polyfill";
 
 interface WrapPageArgs {
   element: React.ReactNode;
