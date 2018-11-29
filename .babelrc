@@ -1,6 +1,8 @@
 {
   "presets": [
-    "@babel/preset-env",
+    ["@babel/preset-env", {
+      "targets": "cover 99.5% in US, IE 10-11"
+    }],
     "@babel/react",
     "@babel/preset-typescript"
   ],
@@ -10,7 +12,7 @@
       "corejs": false,
       "helpers": true,
       "regenerator": true,
-      "useESModules": false
+      "useESModules": true
     }],
     "@babel/proposal-class-properties",
     "@babel/proposal-object-rest-spread"
