@@ -4,7 +4,7 @@ Enable previews of your prismic documents
 
 ## Building project
 ```bash
-npm isntall
+npm install
 ```
 
 ## Installing in gatsby project
