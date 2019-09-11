@@ -2,7 +2,12 @@
 
 Enable previews of your prismic documents
 
-## Installing
+## Building project
+```bash
+npm isntall
+```
+
+## Installing in gatsby project
 
 Install module
 
